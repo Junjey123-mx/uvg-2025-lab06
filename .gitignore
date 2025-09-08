@@ -4,3 +4,9 @@ obj/
 *.exe
 *.out
 
+main
+bin/
+obj/
+*.o
+*.out
+*.log
